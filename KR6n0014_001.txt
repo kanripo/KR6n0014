@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:55:35.869371
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 16:29
 #+TITLE: 瑜伽論劫章頌
 #+PROPERTY: CBETA_ID X47n0794
 #+PROPERTY: ID KR6n0014
 #+PROPERTY: SOURCE 卍 Xuzangjing Vol. 47, No. 794
 #+PROPERTY: VOL 47
 #+PROPERTY: BASEEDITION X
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6n0014_X_001-0234a> 
 #+PROPERTY: JUAN 1
-No.794¶
-
- 劫章頌¶
+No. 794¶
+劫章頌¶
 大慈恩寺沙門　基　撰¶
 
 #+BEGIN_VERSE
@@ -163,8 +162,8 @@ No.794¶
 　火水風災以為數
 　數不能及僧祗量¶
 　即此大劫三無數
-　菩薩將登正覺時
+　菩薩將登正覺時」
 #+END_VERSE
-」¶
+¶
 ¶
 劫章頌(終)
